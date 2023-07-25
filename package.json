@@ -1,0 +1,33 @@
+{
+  "name": "vue-agro-leaf-farmer",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@canvasjs/charts": "^3.7.12",
+    "@canvasjs/vue-charts": "^1.0.1",
+    "@iconscout/react-unicons": "^2.0.2",
+    "axios": "^1.4.0",
+    "canvasjs": "^1.8.3",
+    "chart.js": "^4.3.0",
+    "html5-qrcode": "^2.3.8",
+    "print-js": "^1.6.0",
+    "qrcode": "^1.5.3",
+    "vue": "^3.2.25",
+    "vue-barcode-reader": "^1.0.3",
+    "vue-circular-progress": "^1.0.0",
+    "vue-router": "^4.0.12",
+    "vue-upload-component": "^2.8.23",
+    "vue3-toastify": "^0.1.11",
+    "vuetify": "^3.3.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.8",
+    "vite": "^2.8.0"
+  }
+}
